@@ -1,9 +1,10 @@
-html, body {
+html,
+body {
   height: 100px;
 }
 
 body {
-  background:url(http://i66.tinypic.com/290xvu1.jpg);
+  background: url(http://i66.tinypic.com/290xvu1.jpg);
   margin-top: 65px;
 }
 
@@ -15,7 +16,7 @@ h1 {
 
 .header {
   border: 1px solid black;
-  margin-top:50px;
+  margin-top: 10px;
   background: #333;
 }
 
@@ -29,7 +30,7 @@ h1 {
   border: 1px solid black;
 }
 
- .logo {
+.logo {
   width: 55px;
   height: auto;
   border-radius: 50px;
@@ -52,11 +53,11 @@ h1 {
 }
 
 .online {
-  background: #69995D;
+  background: #69995d;
 }
 
 .offline {
-  background: #B1C1C0;
+  background: #b1c1c0;
 }
 
 .media-body a {
